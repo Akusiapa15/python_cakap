@@ -1,2 +1,2 @@
 # python_cakap
-this repository used for beginner data science 
+project ini adalah praktikum dari pelatihan cakap data science batch 7
